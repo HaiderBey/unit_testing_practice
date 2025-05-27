@@ -25,6 +25,12 @@ Complete these exercises in order, focusing on different unittest concepts:
    - Mocking
    - Verifying mock calls
 
+4. **users.py**  
+   Research
+      -Patch
+      -HTTP status codes / API Handling
+
+
 ## How to Practice
 1. Switch to the `practice` branch
 2. Create test files for each implementation
